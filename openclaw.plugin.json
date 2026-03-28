@@ -1,0 +1,22 @@
+{
+  "id": "s2-small-enterprise-os",
+  "pluginId": "s2-small-enterprise-os",
+  "version": "3.0.0",
+  "type": "native-code",
+  "entry": "handler.py",
+  "runtime": "python3",
+  "capabilities": {
+    "geo_brand_indexing": true,
+    "mm_coordinate_tracking": true,
+    "x_sssu_elastic_scaling": true,
+    "smart_contract_auditing": true
+  },
+  "permissions": {
+    "tools": [
+      "query_brand_showcase",
+      "enter_1v1_negotiation",
+      "open_x_sssu_portal",
+      "sign_spatial_contract"
+    ]
+  }
+}
