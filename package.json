@@ -9,6 +9,9 @@
   "author": "Space2.world & Red Anchor Lab",
   "license": "Commercial Restrict - Dual License",
   "openclaw": {
+    "compat": {
+      "pluginApi": "^1.0.0"
+    },
     "extensions": [
       "./openclaw.plugin.json"
     ]
